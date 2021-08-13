@@ -1,0 +1,12 @@
+html, body{
+    height: 100%;
+}
+body{
+    padding: 5rem;
+    background-color: antiquewhite;
+}
+
+.form-login{
+    max-width: 25rem;
+    margin: auto;
+}
